@@ -28,6 +28,9 @@ next time you want to run the bot you only have to do
 ```
 node .
 ```
+## Authors
+
+* **Ishtiaq Naser Uthsho** - *Coding the bot* - [Uthsho](https://github.com/Uthsho)
 
 ## Contributing
 
