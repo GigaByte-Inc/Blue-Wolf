@@ -1,3 +1,4 @@
 /*
 Licensed by the MIT license.
+I Ishtiaq Naser Uthsho will work on a rewrite version of miku nishio and make it public when i can.
 */
