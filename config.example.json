@@ -1,5 +1,6 @@
 {
   "token": "Your bot token",
   "prefix": "Your bot prefix,
-  "status": "The status for your bot"
+  "status": "The status for your bot",
+  "server": "your server invite url"
 }
