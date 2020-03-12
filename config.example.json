@@ -1,4 +1,5 @@
 {
   "token": "Your bot token",
   "prefix": "Your bot prefix,
+  "status": "The status for your bot"
 }
