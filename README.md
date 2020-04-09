@@ -1,5 +1,5 @@
-# Miku-Nishio
-🤖 The official Miku Nishio discord bot repo 🤖
+# Blue-Wolf
+🤖 The official Blue Wolf discord bot repo 🤖
 
 ## Add Bot to Your server?
 Please click this link to add [bot](https://discordapp.com/oauth2/authorize?client_id=682826605466222622&scope=bot&permissions=2146958847%60)
